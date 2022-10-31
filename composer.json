@@ -1,5 +1,5 @@
 {
-    "name": "oliverde8/php-etl",
+    "name": "maximerig/php-etl",
     "type": "library",
     "license": "MIT",
     "description": "A small etl coded in php, to extract/transform/load Edit with ease.",
